@@ -4,7 +4,7 @@ code from https://github.com/hyperdiv/hyperdiv-apps/tree/main/gpt-chatbot
 
 python >= 3.9
 
-pip3 install -r requirements.txt 
+pip install -r requirements.txt
 
 """
 

@@ -1,18 +1,17 @@
 ## 01.GPTChat
 
 
-
-
+ build a simple chatbot using GPT and Python
 
 ## run it 
 
 python >= 3.9
 
-```pip3 install -r requirements.txt```
+```pip install -r requirements.txt```
 
 
 ```bash
-python3 gptchat.py
+python gptchat.py
 ```
 
 open  http://localhost:8888
